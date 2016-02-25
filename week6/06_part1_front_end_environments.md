@@ -1,6 +1,15 @@
 # Front End Environments
 ## HTML/CSS/JavaScript: An Overview
 
+
+--------
+
+
+#### extra lines are good
+
+
+
+
 All the files you will want to use today are provided in the Week 6
 folder of the class repo.
 
